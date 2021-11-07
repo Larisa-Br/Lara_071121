@@ -1,0 +1,19 @@
+{
+  "name": "Lara_071121",
+  "version": "1.0.0",
+  "repository": "https://github.com/Larisa-Br/Lara_071121.git",
+  "author": "Larisa-Br <9039017849l@gmail.com>",
+  "license": "MIT",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.10.2",
+    "bootstrap": "^5.1.3"
+  }
+}
